@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo06-Elementos tipo vista</string>
+    <string-array name="datos">
+        <item>Selecciona un vehiculo</item>
+        <item>Coche</item>
+        <item>moto</item>
+        <item>bici</item>
+        <item>patinete</item>
+    </string-array>
+</resources>
